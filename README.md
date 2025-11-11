@@ -76,20 +76,8 @@ php artisan serve
 
 Aplikasi dapat diakses di: `http://localhost:8000`
 
-## Kredensial Default (jika ada)
+=
 
-Jika ada user default untuk testing:
-```
-Email: admin@example.com
-Password: password
-```
-
-## Screenshot
-
-(Opsional: tambahkan screenshot aplikasi Anda)
-
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
 
 ## Struktur Project
 
@@ -148,7 +136,3 @@ Project Link: [https://github.com/fawwazking/tugas-pemweb](https://github.com/fa
 
 ## Catatan
 
-Tambahkan catatan penting lainnya di sini, misalnya:
-- Versi Laravel yang digunakan
-- Known issues
-- Rencana pengembangan selanjutnya
