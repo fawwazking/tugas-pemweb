@@ -115,22 +115,9 @@ chmod -R 775 storage bootstrap/cache
 composer update
 ```
 
-## Kontribusi
 
-Jika ini project kolaborasi, jelaskan cara berkontribusi:
-1. Fork repository
-2. Buat branch baru (`git checkout -b fitur-baru`)
-3. Commit perubahan (`git commit -m 'Menambahkan fitur baru'`)
-4. Push ke branch (`git push origin fitur-baru`)
-5. Buat Pull Request
 
-## Lisensi
-
-MIT License (atau lisensi yang Anda pilih)
-
-## Kontak
-
-Nama Anda - [@username](https://github.com/fawwazking)
+Nama Anda - [@hqiravy](https://github.com/fawwazking)
 
 Project Link: [https://github.com/fawwazking/tugas-pemweb](https://github.com/fawwazking/tugas-pemweb)
 
